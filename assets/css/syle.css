@@ -1,6 +1,7 @@
 img {
-    height: 100%;
+    height: 120%;
     width: 100%;
+    position: relative;
 }
 
 
@@ -20,10 +21,38 @@ h1 {
 }
 
 
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+
 #nav a {
     text-decoration: none;
     color: white;
     text-align: center;
     font-size: 40px;
     text-transform: uppercase;
+    margin: 400px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+
+#nav a:hover{
+    color: black;
+    background-color: gold;
+    border: 1px solid gold;
+}
+
+
+p {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
 }
