@@ -33,7 +33,7 @@ h2 {
     text-decoration: none;
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     text-transform: uppercase;
     margin: 400px;
     border: 1px solid white;
@@ -55,4 +55,35 @@ p {
     transform: translate(-50%, -50%);
     color: white;
     font-size: 20px;
+}
+
+
+h3 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid white;
+}
+
+.wiki p {
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+    width: 80%;
+    word-spacing: 5px;
+}
+
+
+.bottom-left {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: larger;
 }
