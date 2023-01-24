@@ -1,0 +1,29 @@
+img {
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-blend-mode: darken;
+    background-color: black;
+}
+
+
+h1 {
+    color: white;
+    font-size: 50px;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+#nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+}
