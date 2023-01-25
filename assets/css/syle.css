@@ -36,8 +36,7 @@ h2 {
     font-size: 30px;
     text-transform: uppercase;
     margin: 400px;
-    border: 1px solid white;
-    border-radius: 10px;
+    border-bottom: 1px solid white;
 }
 
 
