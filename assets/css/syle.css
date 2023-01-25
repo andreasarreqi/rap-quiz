@@ -75,3 +75,34 @@ h3 {
     text-transform: uppercase;
     font-size: larger;
 }
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+#submit {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.quiz-container {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 600px;
+    overflow: hidden;
+}
+
+.quiz-header {
+    padding: 4rem;
+}
+
+h5 {
+    text-align: center;
+    padding: 1rem;
+    margin: 9;
+}
