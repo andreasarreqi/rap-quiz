@@ -1,16 +1,14 @@
 img {
-    height: 120%;
+    height: 100%;
     width: 100%;
     position: relative;
 }
-
 
 body {
     font-family: sans-serif;
     background-blend-mode: darken;
     background-color: rgb(29, 20, 20);
 }
-
 
 h1 {
     color: white;
@@ -20,14 +18,12 @@ h1 {
     text-transform: uppercase;
 }
 
-
 h2 {
     color: white;
     text-align: center;
     font-size: 35px;
     text-transform: uppercase;
 }
-
 
 #nav a {
     text-decoration: none;
@@ -36,16 +32,11 @@ h2 {
     font-size: 30px;
     text-transform: uppercase;
     margin: 400px;
-    border-bottom: 1px solid white;
 }
-
 
 #nav a:hover{
-    color: black;
-    background-color: gold;
-    border: 1px solid gold;
+    border-bottom: 1px solid white;
 }
-
 
 p {
     position: absolute;
@@ -55,7 +46,6 @@ p {
     color: white;
     font-size: 20px;
 }
-
 
 h3 {
     position: absolute;
@@ -78,7 +68,6 @@ h3 {
     width: 80%;
     word-spacing: 5px;
 }
-
 
 .bottom-left {
     color: white;
