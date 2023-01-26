@@ -85,17 +85,67 @@ h3 {
 
 #submit {
     position: absolute;
-    top: 60%;
+    top: 74%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .quiz-container {
-    background-color: #fff;
+    background-color: rgb(67, 55, 55);
     border-radius: 10px;
+    box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
     width: 600px;
     overflow: hidden;
-}
+    color: white;
+  }
+
+  .quiz-header {
+    padding: 4rem;
+  }
+
+  h5 {
+    padding: 1rem;
+    text-align: center;
+    margin: 0;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  ul li {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+  }
+
+  ul li label {
+    cursor: pointer;
+  }
+
+  button {
+    background-color: #03cae4;
+    color: #fff;
+    border: none;
+    display: block;
+    width: 31.5%;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-family: inherit;
+    padding: 1.3rem;
+    font-size: 30px;
+    color: black;
+    text-transform: uppercase;
+  }
+
+  button:hover {
+    background-color: #04adc4;
+  }
+
+  button:focus {
+    outline: none;
+    background-color: #44b927;
+  }
 
 .quiz-header {
     padding: 4rem;
@@ -105,4 +155,6 @@ h5 {
     text-align: center;
     padding: 1rem;
     margin: 9;
+    font-size: 25px;
+    margin-bottom: 50px;
 }
