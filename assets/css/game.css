@@ -50,14 +50,15 @@ body {
 }
 
 .hud-prefix {
-    text-align: left;
     font-size: 2rem;
     padding: 2rem;
 }
+
 #score {
     text-align: left;
     margin-left: 3rem;
 }
+
 .hud-main-text {
     text-align: center;
 }
