@@ -17,7 +17,7 @@ let questions = [
     choice2: 'Los Angeles',
     choice3: 'New York City',
     choice4: 'Compton',
-    answer: 'New York City'
+    correctAnswer: 'New York City'
 },
 {
     question: 'Which actor and rapper is often known as Ice Cube?',
@@ -25,7 +25,7 @@ let questions = [
     choice2: 'OShea Jackson',
     choice3: 'Calvin Broadus',
     choice4: 'Kevin Hart',
-    answer: 'OShea Jackson'
+    correctAnswer: 'OShea Jackson'
 
 },
 {
@@ -34,7 +34,7 @@ let questions = [
     choice2: 'Bone Thugz n Harmony',
     choice3: 'N.W.A',
     choice4: 'Public Enemy',
-    answer: 'B2K'
+    correctAnswer: 'B2K'
 },
 {
     question: 'The American hip hop star Dr. Dre also has a popular brand of which product with his name?',
@@ -42,7 +42,7 @@ let questions = [
     choice2: 'Food',
     choice3: 'Headphones',
     choice4: 'Clothes',
-    answer: 'Headphones'
+    correctAnswer: 'Headphones'
 },
 {
     question: 'There are four original elements of hip hop culture: break dancing, deejaying, rapping, and what else?',
@@ -50,7 +50,7 @@ let questions = [
     choice2: 'Graffiti',
     choice3: 'Locking',
     choice4: 'Blues',
-    answer: 'Graffiti',
+    correctAnswer: 'Graffiti',
 },
 {
     question: 'What is the name of the first album by Jay-Z?',
@@ -58,7 +58,7 @@ let questions = [
     choice2: 'Reasonable Doubt',
     choice3: 'Watch the Throne',
     choice4: 'Brooklyns finest',
-    answer: 'Reasonable Doubt',
+    correctAnswer: 'Reasonable Doubt',
 },
 {
     question: 'The UK number 1 hit “Ghetto Gospel” was a collaboration between Elton John and which hip hop legend?',
@@ -66,7 +66,7 @@ let questions = [
     choice2: 'Tupac Shakur',
     choice3: 'Eminem',
     choice4: 'LL COOL J',
-    answer: 'Tupac Shakur'
+    correctAnswer: 'Tupac Shakur'
 },
 {
     question: 'What was the first rap name of Biggie Smalls, also known as The Notorious B.I.G?',
@@ -74,7 +74,7 @@ let questions = [
     choice2: 'M.C. Best',
     choice3: 'M.C. Jest',
     choice4: 'M.C. Cheques',
-    answer: 'M.C. Quest',
+    correctAnswer: 'M.C. Quest',
 },
 {
     question: 'Which of the following record labels featured famous artists, such as Snoop Dogg, Dr. Dre, and Tupac?',
@@ -82,7 +82,7 @@ let questions = [
     choice2: 'Death Row Records',
     choice3: 'Roc-A-Fella',
     choice4: 'Bad Boy Records',
-    answer: 'Death Row Records',
+    correctAnswer: 'Death Row Records',
 },
 ];
 
