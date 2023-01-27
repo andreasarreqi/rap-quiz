@@ -50,7 +50,7 @@ let questions = [
     choice2: 'Graffiti',
     choice3: 'Locking',
     choice4: 'Blues',
-    correctAnswer: 'Graffiti',
+    correctAnswer: 'Graffiti'
 },
 {
     question: 'What is the name of the first album by Jay-Z?',
@@ -58,7 +58,7 @@ let questions = [
     choice2: 'Reasonable Doubt',
     choice3: 'Watch the Throne',
     choice4: 'Brooklyns finest',
-    correctAnswer: 'Reasonable Doubt',
+    correctAnswer: 'Reasonable Doubt'
 },
 {
     question: 'The UK number 1 hit “Ghetto Gospel” was a collaboration between Elton John and which hip hop legend?',
@@ -74,7 +74,7 @@ let questions = [
     choice2: 'M.C. Best',
     choice3: 'M.C. Jest',
     choice4: 'M.C. Cheques',
-    correctAnswer: 'M.C. Quest',
+    correctAnswer: 'M.C. Quest'
 },
 {
     question: 'Which of the following record labels featured famous artists, such as Snoop Dogg, Dr. Dre, and Tupac?',
@@ -82,7 +82,15 @@ let questions = [
     choice2: 'Death Row Records',
     choice3: 'Roc-A-Fella',
     choice4: 'Bad Boy Records',
-    correctAnswer: 'Death Row Records',
+    correctAnswer: 'Death Row Records'
+},
+{
+    question:'Which artist holds the record for the most wins in the Grammy Award for Best',
+    choice1: 'Nas',
+    choice2: 'Eminem',
+    choice3: 'Jay Z',
+    choice4: 'Snoop Dogg',
+    correctAnswer: 'Eminem'
 },
 ];
 
