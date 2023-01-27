@@ -44,11 +44,11 @@ body {
 }
 
 .correct {
-    background: linear-gradient(32deg, green);
+    background: green;
 }
 
-.incrrect {
-    background: linear-gradient(32deg, red);
+.incorrect {
+    background: red;
 }
 
 .hud {
