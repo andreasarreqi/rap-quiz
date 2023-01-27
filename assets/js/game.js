@@ -3,8 +3,6 @@ const choices = Array.from(document.querySelectorAll('.choice-text'));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
-const SCORE_POINTS = 10;
-const MAX_QUESTIONS = 10;
 
 let currentQuestion = {};
 let acceptingAnswers = true;
@@ -87,6 +85,9 @@ let questions = [
     answer: 'Death Row Records',
 },
 ];
+
+const SCORE_POINTS = 10;
+const MAX_QUESTIONS = 10;
 
  document.addEventListener("DOMContentLoaded", function () {
     /*
@@ -174,7 +175,7 @@ let questions = [
      *Light up green or yellow depending on correctness and if correct, increment score value.
      *Remove the light up effect.
      */
-    choices.forEach(choice => {
+     choices.forEach(choice => {
         choice.addEventListener('click', e => {
             if (!acceptingAnswers) return;
 
@@ -201,7 +202,7 @@ let questions = [
      *Display the new value in the front end.
      */
     incrementScore = num => {
-        score += num;
+        score +=num;
         scoreText.innerText = score;
     };
 
