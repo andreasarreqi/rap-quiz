@@ -88,12 +88,6 @@ h6 {
     font-size: 40px;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
 h6 {
     font-size: 5.4rem;
     margin-bottom: 5rem;

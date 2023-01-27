@@ -2,6 +2,13 @@ body {
     color: #fff
 }
 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+
 .choice-container {
     display: flex;
     margin-bottom: 0.8rem;
@@ -43,10 +50,14 @@ body {
 }
 
 .hud-prefix {
-    text-align: center;
+    text-align: left;
     font-size: 2rem;
+    padding: 2rem;
 }
-
+#score {
+    text-align: left;
+    margin-left: 3rem;
+}
 .hud-main-text {
     text-align: center;
 }
