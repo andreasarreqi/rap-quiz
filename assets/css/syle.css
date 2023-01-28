@@ -176,27 +176,24 @@ h6 {
 }
 
 #result-text {
-    color: var(--basic-white);
     font-size: 2rem;
     text-align: center;
 }
 
 #result-message {
-    font-style: italic;
+    font-style: bold;
     text-align: center;
     width: 150%;
 }
 
-#endScore {
-    color: var(--honey-yellow);
-}
-
-#scoreSaveButton {
+#scoreSaveBBtn {
     border: none;
 }
 
-#scoreSaveButton:hover {
-    box-shadow: 0 0.3rem 1.4rem 0 var(--purple-navy);
+#scoreSaveBtn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 , rgba(8,114, 244, 0.6);
+    transition: transform 150ms;
+    transform: scale(1.03);
 }
 
 input {
@@ -206,8 +203,4 @@ input {
     font-size: 1.3rem;
     border: none;
     box-shadow: 0 0.3rem 1.4rem 0 rgba(249, 249, 249, 0.3);
-}
-
-input::placeholder {
-    color: var(--purple-navy);
 }
