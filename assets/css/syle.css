@@ -151,7 +151,7 @@ h6 {
     transform: none;
 }
 
-#homepage-btn {
+#highscore-btn {
     background: linear-gradient(90deg, rgb(31, 3, 100)0%, rgb(98, 0, 255) 100%);
 }
 
@@ -171,7 +171,7 @@ h6 {
 
 #username {
     width: 100%;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
     outline: none;
 }
 
