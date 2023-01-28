@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     /*
-     *Save user ID and end score in local storage and display in the front end.
+     *Save user ID and end score.
      */
     saveHighScore = e => {
         e.preventDefault();
@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     /*
-     *Display alternative text depending on user performance. 
+     *Display text depending on how the user does with the answers. 
      */
     function scoreMessage() {
         if (recentScore >= 50) {
@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     /*
-     *Call the alternative text functionality.
+     *Call the alternative text function.
      */
     scoreMessage();
 });

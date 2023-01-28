@@ -1,0 +1,18 @@
+body {
+    color: white
+}
+
+#savedScoresList {
+    margin-bottom: 2rem;
+    list-style: none;
+}
+
+.highScore {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+.user-listing {
+    font-size: 2.2rem;
+    color: var(--honey-yellow);
+}
