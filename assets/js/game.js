@@ -113,7 +113,7 @@ const MAX_QUESTIONS = 10;
             document.getElementById('timer').innerHTML = "0s left";
             alert('Your time has run out!');
             resetScore();
-            return window.location.assign('result.html');
+            return window.location.assign('end.html');
         }
     }
 
