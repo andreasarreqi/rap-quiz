@@ -138,10 +138,10 @@ const MAX_QUESTIONS = 10;
     }
 
     /*
-     *Get new question from questions array and display in the front end.
-     *Increment question counter and progress bar values.
-     *Shuffle answer choices.
-     *Display the randomized choices in the front end.
+     *getNewQuestion function gives the user different questions
+     *Increments question counter and progress bar values.
+     *Shuffles answer choices.
+     *Displays the randomized choices.
      */
     getNewQuestion = () => {
         if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
@@ -207,7 +207,6 @@ const MAX_QUESTIONS = 10;
 
     /*
      *Increase score value.
-     *Display the new value in the front end.
      */
     incrementScore = num => {
         score +=num;
@@ -215,8 +214,7 @@ const MAX_QUESTIONS = 10;
     };
 
     /*
-     *Reset displayed score value to 0.
-     *Reset score value to 0 in the local storage.
+     *Reset score value to 0.
      */
     function resetScore() {
         score = 0;

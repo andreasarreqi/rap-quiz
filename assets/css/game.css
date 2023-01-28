@@ -73,14 +73,14 @@ body {
 #progressBar {
     width: 20rem;
     height: 3rem;
-    border: 0.2rem solid rgb(11, 233, 35);
-    border-radius: 50px;
+    border: 0.2rem solid rgba(55, 0, 255, 0.244);
+    border-radius: 10px;
     overflow: hidden;
 }
 
 #progressBarFull {
     height: 100%;
-    background: rgb(11, 233, 35);
+    background: rgb(17, 0, 255);
     width: 0%;
 }
 
