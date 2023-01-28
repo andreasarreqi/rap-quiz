@@ -11,20 +11,20 @@
 <body>
     <!--Final Score Container-->
     <div class="container">
-        <div id="result" class="flex-column flex-center">
+        <div id="end" class="flex-column flex-center">
             <!--Final Score-->
-            <h1 id="endScore">0</h1>
+            <h1 id="finalScore">0</h1>
             <!--User ID Input Area-->
-            <form class="result-form-container">
-                <h2 id="result-message">placeholder</h2>
+            <form class="end-form-container">
+                <h2 id="end-text">placeholder</h2>
                 <h2 id="result-text">What is your name ?</h2>
                 <input id="username" type="text" name="name" placeholder="Write your name to register score">
-                <button class="button" id="scoreSaveButton" type="submit" onclick="saveHighScore(event)"
+                <button class="button" id="scoreSaveBtn" type="submit" onclick="saveHighScore(event)"
                     disabled>Register</button>
             </form>
             <!--Navigation Buttons-->
-            <a href="quiz.html" class="button">Try Again</a>
-            <a href="index.html" class="button">Main Menu</a>
+            <a href="game.html" class="button">Try Again</a>
+            <a href="index.html" class="button">Home</a>
         </div>
     </div>
 </body>
