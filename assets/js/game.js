@@ -118,9 +118,9 @@ const MAX_QUESTIONS = 10;
     }
 
     /** 
-     * Start the game by setting the default value to the score counter and progress bar 
-     * and calling the first question along with its answers.
-     * The questions are randomized.
+     * Starting the game with the score 0 and the question at 1 of 10
+     * ant the progress bar fillung up while the user is answering questions
+     * which are randomized.
      */
     function startGame() {
         questionCounter = 0;
@@ -147,7 +147,7 @@ const MAX_QUESTIONS = 10;
         if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
             localStorage.setItem('recentScore', score);
 
-            return window.location.assign('result.html'); /* Take player to end game*/
+            return window.location.assign('end.html'); /* Take player to end game*/
         }
 
         questionCounter++;
