@@ -158,3 +158,56 @@ h6 {
 #homepage-btn:hover {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(255,255,0,0.5);
 }
+
+
+
+.result-form-container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    max-width: 30rem;
+}
+
+#username {
+    width: 100%;
+    margin-bottom: 2rem;
+    outline: none;
+}
+
+#result-text {
+    color: var(--basic-white);
+    font-size: 2rem;
+    text-align: center;
+}
+
+#result-message {
+    font-style: italic;
+    text-align: center;
+    width: 150%;
+}
+
+#endScore {
+    color: var(--honey-yellow);
+}
+
+#scoreSaveButton {
+    border: none;
+}
+
+#scoreSaveButton:hover {
+    box-shadow: 0 0.3rem 1.4rem 0 var(--purple-navy);
+}
+
+input {
+    margin-bottom: 60rem;
+    width: 20rem;
+    padding: 1.3rem;
+    font-size: 1.3rem;
+    border: none;
+    box-shadow: 0 0.3rem 1.4rem 0 rgba(249, 249, 249, 0.3);
+}
+
+input::placeholder {
+    color: var(--purple-navy);
+}
