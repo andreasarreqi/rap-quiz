@@ -84,6 +84,18 @@ body {
     width: 0%;
 }
 
+@media screen and (max-width: 1024){
+    .choice-container {
+        margin-bottom: 0.8rem;
+        width: 40%;
+        font-size: 20px;
+        margin: 10px;
+    }
+}
+
+
+
+
 @media screen and (max-width: 768px){
     .choice-container {
         min-width: 40rem;
