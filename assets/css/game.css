@@ -159,8 +159,18 @@ body {
 @media screen and (max-width: 320px) {
     .choice-container {
         margin-bottom: 0.8rem;
-        width: 40%;
-        font-size: 20px;
+        width: 25%;
+        margin: 5px;
+    }
+    #question {
+        font-size: 12px;        
+    }
+    #progressText {
+        font-size: 10px;
         margin: 10px;
+    }
+     #progressBar {
+        width: 80%;
+        height: 20px;
     }
 }
