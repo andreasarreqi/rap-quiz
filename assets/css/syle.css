@@ -206,6 +206,11 @@ input {
     box-shadow: 0 0.3rem 1.4rem 0 rgba(249, 249, 249, 0.3);
 }
 
+marquee{
+    position: relative;
+    bottom: 0;
+}
+
 /* Media Queries */
 @media screen and (max-width: 1024px) {
     body {
@@ -244,5 +249,51 @@ input {
     }
     .container {
         font-size: 50px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    h1 {
+        font-size: 40px;
+    }
+    .bottom-left {
+        margin-top: 10px;
+    }
+} 
+
+/*Tablet Resolutions*/
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    #nav a{
+        position: flex;
+        font-size: 20px;
+        margin: 5px;
+        text-align: center;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 15px;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }
+    .rap p {
+        font-size: 15px;
+    }
+    .wiki p {
+        font-size: 14px;
+        height: 30%;
+        width: 90%;
+        height: 40%;
+        left: 50%;
+        top: 65%;
+    }
+    marquee{
+        font-size: 15px;
     }
 }
