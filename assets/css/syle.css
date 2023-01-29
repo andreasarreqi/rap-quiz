@@ -102,6 +102,7 @@ h6 {
     max-width: 80rem;
     margin: 0 auto;
     padding: 2rem;
+    font-size: 40px;
 }
 
 .flex-column {
@@ -240,5 +241,8 @@ input {
         position: relative;
         bottom: 0;
         left: 0;
+    }
+    .container {
+        font-size: 50px;
     }
 }
