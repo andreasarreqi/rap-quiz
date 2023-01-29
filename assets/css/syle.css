@@ -127,7 +127,7 @@ h6 {
 }
 
 .btn {
-    font-size: 2.4rem;
+    nt-size: 2.4rem;
     padding: 2rem 0;
     width: 30rem;
     text-align: center;
@@ -203,4 +203,42 @@ input {
     font-size: 1.3rem;
     border: none;
     box-shadow: 0 0.3rem 1.4rem 0 rgba(249, 249, 249, 0.3);
+}
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+    body {
+        height: 95vh;
+    }
+    #nav {
+        text-align: center;
+        position: flex;
+    }
+    .rap p {
+        height: 50%;
+        width: 80%;
+        text-align: center;
+        left: 50%;
+        top: 44%;
+    }
+    h3 {
+        font-size: 30px;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+        
+    }
+    .wiki p {
+        height: 30%;
+        width: 90%;
+        height: 40%;
+        left: 50%;
+        top: 65%;
+    }
+    marquee{
+        margin-top: 100px;
+        position: relative;
+        bottom: 0;
+        left: 0;
+    }
 }
