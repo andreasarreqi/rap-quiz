@@ -87,17 +87,80 @@ body {
 @media screen and (max-width: 1024){
     .choice-container {
         margin-bottom: 0.8rem;
-        width: 40%;
-        font-size: 20px;
+        width: 50%;
+        font-size: 30px;
         margin: 10px;
     }
 }
 
-
-
+@media only screen and (min-width: 992px) {
+    .choice-container {
+        margin-bottom: 0.8rem;
+        width: 40%;
+        margin: 10px;
+    }
+    .choice-container p {
+        font-size: 20px;
+    }
+    #question {
+        font-size: 27px;
+    }
+}
 
 @media screen and (max-width: 768px){
+    #timer {
+       font-size: 15px;
+    }
+    #progressBar {
+        font-size: 20px;
+    }
     .choice-container {
         min-width: 40rem;
+        justify-content: center;
+    }
+    .choice-container p {
+        font-size: 16px;
+    }
+    #question {
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    #timer {
+        text-align: center;
+        font-size: 15px;
+     }
+     .hud-prefix {
+        font-size: 12px;
+     }
+     #score {
+        font-size: 15px;
+     }
+     #progressBar {
+        text-align: center;
+        font-size: 15px;
+        margin: 10px;
+     }
+     .choice-container {
+        justify-items: center;
+        min-width: 100%;
+        justify-content: center;
+     }
+     .choice-container p {
+         font-size: 11px;
+     }
+     #question {
+         font-size: 15px;
+     }
+}
+
+@media screen and (max-width: 320px) {
+    .choice-container {
+        margin-bottom: 0.8rem;
+        width: 40%;
+        font-size: 20px;
+        margin: 10px;
     }
 }
