@@ -297,3 +297,44 @@ marquee{
         font-size: 15px;
     }
 }
+
+/*Media queries for mobile phones */
+@media screen and (max-width: 450px) {
+    h1 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    #nav a{
+        position: flex;
+        font-size: 10px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    h2 {
+        font-size: 13px;
+    }
+    h3 {
+        font-size: 13px;
+        position: absolute;
+        left: 50%;
+        top: 29%;
+    }
+    .rap p {
+        font-size: 12px;
+        top: 35%;
+    }
+    .wiki p {
+        font-size: 12px;
+        height: 30%;
+        width: 90%;
+        height: 30%;
+        left: 50%;
+        top: 47%;
+        margin: 5px;
+    }
+    marquee{
+        font-size: 10px;
+        left: 0;
+        bottom: 0;
+    }
+}
