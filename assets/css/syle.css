@@ -141,7 +141,6 @@ h6 {
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 , rgba(8,114, 244, 0.6);
     transition: transform 150ms;
     transform: scale(1.03);
 }
@@ -182,7 +181,6 @@ h6 {
 }
 
 #result-message {
-    font-style: bold;
     text-align: center;
     width: 150%;
 }
@@ -192,7 +190,6 @@ h6 {
 }
 
 #scoreSaveBtn:hover {
-    box-shadow: 0 0.4rem 1.4rem 0 , rgba(8,114, 244, 0.6);
     transition: transform 150ms;
     transform: scale(1.03);
 }
@@ -213,12 +210,8 @@ marquee{
 
 /* Media Queries */
 @media screen and (max-width: 1024px) {
-    body {
-        height: 95vh;
-    }
     #nav {
         text-align: center;
-        position: flex;
     }
     .rap p {
         height: 50%;
@@ -295,80 +288,6 @@ marquee{
     }
     marquee{
         font-size: 15px;
-    }
-}
-@media screen and (min-width: 800px) {
-    h1 {
-        font-size: 25px;
-        margin-bottom: 10px;
-    }
-    #nav a{
-        position: flex;
-        font-size: 15px;
-        margin: 5px;
-        text-align: center;
-    }
-    h2 {
-        font-size: 20px;
-    }
-    h3 {
-        font-size: 15px;
-        position: absolute;
-        left: 50%;
-        top: 35%;
-    }
-    .rap p {
-        font-size: 13.5px;
-        top: 38%;
-    }
-    .wiki p {
-        font-size: 13.5px;
-        height: 30%;
-        width: 90%;
-        left: 50%;
-        top: 55%;
-    }
-    marquee{
-        font-size: 15px;
-    }
-    .container{
-        align-items: center;
-    }
-}
-
-@media screen and (min-width: 500px) {
-    h1 {
-        font-size: 20px;
-        margin-bottom: 10px;
-    }
-    #nav a{
-        position: flex;
-        font-size: 15px;
-        margin: 5px;
-        text-align: center;
-    }
-    h2 {
-        font-size: 15px;
-    }
-    h3 {
-        font-size: 12px;
-        position: absolute;
-        left: 50%;
-        top: 32%;
-    }
-    .rap p {
-        font-size: 12px;
-    }
-    .wiki p {
-        font-size: 12px;
-        height: 30%;
-        width: 90%;
-        height: 40%;
-        left: 50%;
-        top: 55%;
-    }
-    marquee{
-        font-size: 12px;
     }
 }
 
