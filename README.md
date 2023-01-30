@@ -1,6 +1,6 @@
 # Rap Quiz
 
-## Features 
+## Introduction
 
 
 ### Features
