@@ -296,9 +296,8 @@ marquee{
         font-size: 25px;
         margin-bottom: 10px;
     }
-    #nav a{
+    #nav {
         font-size: 20px;
-        margin: 5px;
         text-align: center;
     }
     h2 {
@@ -337,10 +336,8 @@ marquee{
         margin-bottom: 10px;
     }
     #nav a{
-        position: flex;
-        font-size: 12px;
-        margin-bottom: 5px;
         text-align: center;
+        font-size: 12px;
     }
     h2 {
         font-size: 11px;
@@ -390,8 +387,7 @@ marquee{
         font-size: 12px;
         margin-bottom: 5px;
     }
-    #nav a{
-        position: flex;
+    #nav {
         font-size: 8px;
         margin-bottom: 5px;
         text-align: center;
