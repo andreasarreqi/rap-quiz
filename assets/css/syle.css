@@ -346,17 +346,15 @@ marquee{
 }
 
 @media screen and (max-width: 320px) {
-    img {
-        height: 60%;
-    }
+
     h1 {
         text-align: center;
-        font-size: 14px;
+        font-size: 12px;
         margin-bottom: 5px;
     }
     #nav a{
         position: flex;
-        font-size: 10px;
+        font-size: 8px;
         margin-bottom: 5px;
         text-align: center;
     }
@@ -367,23 +365,24 @@ marquee{
         font-size: 10px;
         position: absolute;
         left: 50%;
-        top: 29%;
+        top: 25%;
     }
     .rap p {
-        font-size: 10px;
+        font-size: 8px;
         top: 35%;
     }
     .wiki p {
         text-align: left;
-        font-size: 7px;
+        font-size: 8px;
         height: 30%;
-        width: 80%;
+        width: 90%;
         left: 50%;
-        top: 47%;
+        top: 43%;
         margin: 5px;
     }
     marquee{
-        font-size: 10px;
+        position: absolute;
+        font-size: 8px;
         left: 0;
         bottom: 0;
     }
