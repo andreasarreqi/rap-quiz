@@ -247,12 +247,41 @@ marquee{
 
 @media only screen and (min-width: 992px) {
     h1 {
-        font-size: 40px;
+        font-size: 35px;
+        margin-bottom: 10px;
     }
-    .bottom-left {
-        margin-top: 10px;
+    #nav a{
+        font-size:20px;
+        margin: 5px;
+        text-align: center;
     }
-} 
+    h2 {
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 18px;
+        position: absolute;
+        left: 50%;
+        top: 35%;
+    }
+    .rap p {
+        font-size: 13px;
+        left: 50%;
+        top: 41%;
+    }
+    .wiki p {
+        font-size: 13px;
+        height: 30%;
+        width: 90%;
+        height: 40%;
+        left: 50%;
+        top: 60%;
+    }
+    marquee{
+        font-size: 15px;
+        position: absolute;
+    }
+}
 
 /*Tablet Resolutions*/
 @media screen and (max-width: 768px) {
