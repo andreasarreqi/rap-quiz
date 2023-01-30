@@ -305,31 +305,32 @@ marquee{
         text-align: center;
     }
     h2 {
-        font-size: 13px;
+        font-size: 11px;
     }
     h3 {
-        font-size: 13px;
+        font-size: 12px;
         position: absolute;
         left: 50%;
-        top: 29%;
+        top: 25%;
     }
     .rap p {
-        font-size: 12px;
+        font-size: 10px;
         top: 35%;
     }
     .wiki p {
-        font-size: 12px;
+        font-size: 10px;
         height: 30%;
         width: 90%;
         height: 30%;
         left: 50%;
-        top: 47%;
+        top: 43%;
         margin: 5px;
     }
     marquee{
         font-size: 10px;
         left: 0;
         bottom: 0;
+        position: absolute;
     }
     .container {
         margin-top: 1rem;
@@ -346,7 +347,6 @@ marquee{
 }
 
 @media screen and (max-width: 320px) {
-
     h1 {
         text-align: center;
         font-size: 12px;
