@@ -1,26 +1,15 @@
 body {
     color: white
 }
-
 #savedScoresList {
     margin-bottom: 2rem;
-    list-style: none;
-}
-
-.highScore {
-    font-size: 2rem;
-    margin-bottom: 0;
+    font-size: 30px;
 }
 
 .btn {
     width: 20%;
     padding: 10px;
     font-size: 30px;
-}
-
-.user-listing {
-    font-size: 2.2rem;
-    color: var(--honey-yellow);
 }
 
 @media screen and (max-width: 320px) {
