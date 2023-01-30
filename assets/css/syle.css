@@ -297,9 +297,7 @@ marquee{
         font-size: 15px;
     }
 }
-
-
-@media screen and (max-width: 800px) {
+@media screen and (min-width: 800px) {
     h1 {
         font-size: 25px;
         margin-bottom: 10px;
@@ -338,7 +336,7 @@ marquee{
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (min-width: 500px) {
     h1 {
         font-size: 20px;
         margin-bottom: 10px;
