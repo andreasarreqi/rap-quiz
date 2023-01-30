@@ -257,37 +257,39 @@ marquee{
 /*Tablet Resolutions*/
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 30px;
+        font-size: 25px;
         margin-bottom: 10px;
     }
     #nav a{
-        position: flex;
         font-size: 20px;
         margin: 5px;
         text-align: center;
     }
     h2 {
-        font-size: 20px;
+        font-size: 16px;
     }
     h3 {
         font-size: 15px;
         position: absolute;
         left: 50%;
-        top: 40%;
+        top: 29%;
     }
     .rap p {
-        font-size: 15px;
+        font-size: 13px;
+        left: 50%;
+        top: 39%;
     }
     .wiki p {
-        font-size: 14px;
+        font-size: 13px;
         height: 30%;
         width: 90%;
         height: 40%;
         left: 50%;
-        top: 65%;
+        top: 55%;
     }
     marquee{
         font-size: 15px;
+        position: absolute;
     }
 }
 
