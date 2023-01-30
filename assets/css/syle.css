@@ -1,12 +1,11 @@
 body {
     font-family: sans-serif;
-    background-blend-mode: darken;
     background-color: rgb(29, 20, 20);
 }
 
 h1 {
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     margin: 0 auto;
     text-align: center;
     text-transform: uppercase;
@@ -15,7 +14,7 @@ h1 {
 h2 {
     color: white;
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     text-transform: uppercase;
 }
 
@@ -23,7 +22,7 @@ h2 {
     text-decoration: none;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
     margin: 400px;
 }
@@ -33,7 +32,7 @@ h2 {
 }
 
 footer {
-    font-size: 20px;
+    font-size: 15px;
     position: absolute;
     text-align: center;
     bottom: 0;
@@ -46,7 +45,7 @@ footer {
     left: 60%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 h3 {
@@ -55,7 +54,7 @@ h3 {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
     border-bottom: 1px solid white;
 }
@@ -66,7 +65,7 @@ h3 {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     width: 80%;
     word-spacing: 5px;
 }
