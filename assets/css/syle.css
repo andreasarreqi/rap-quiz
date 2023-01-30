@@ -243,7 +243,7 @@ marquee{
         top: 56%;
         font-size: 17px;
     }
-    marquee {
+    .bottom-left {
         font-size: 12px;
         margin-top: 100px;
         bottom: 0;
@@ -285,7 +285,7 @@ marquee{
         left: 50%;
         top: 60%;
     }
-    marquee{
+    .bottom-left{
         font-size: 15px;
     }
 }
@@ -322,9 +322,12 @@ marquee{
         left: 50%;
         top: 55%;
     }
-    marquee{
-        font-size: 15px;
+    footer {
+        font-size: 12px;
         position: absolute;
+        text-align: center;
+        bottom: 0;
+        left: 34%;
     }
 }
 
@@ -361,11 +364,11 @@ marquee{
         top: 43%;
         margin: 5px;
     }
-    marquee{
-        font-size: 10px;
+    .bottom-left{
+        display: flex;
+        font-size: 8px;
         left: 0;
         bottom: 0;
-        position: absolute;
     }
     .container {
         margin-top: 1rem;
@@ -414,8 +417,7 @@ marquee{
         top: 43%;
         margin: 5px;
     }
-    marquee{
-        position: absolute;
+    .bottom-left{
         font-size: 8px;
         left: 0;
         bottom: 0;
