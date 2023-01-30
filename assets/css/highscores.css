@@ -12,6 +12,12 @@ body {
     margin-bottom: 0;
 }
 
+.btn {
+    width: 20%;
+    padding: 10px;
+    font-size: 30px;
+}
+
 .user-listing {
     font-size: 2.2rem;
     color: var(--honey-yellow);
@@ -26,5 +32,9 @@ body {
         width: 50%;
         font-size: 15px;
         padding: 20px;
+    }
+    #savedScores {
+        padding: 5px;
+        margin: 5px;
     }
 }
