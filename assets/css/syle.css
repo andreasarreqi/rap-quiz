@@ -210,33 +210,42 @@ marquee{
 
 /* Media Queries */
 @media screen and (max-width: 1024px) {
-    #nav {
+    h1 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    #nav a {
         text-align: center;
+        font-size: 20px;
+        padding: 50px;
     }
     .rap p {
         height: 50%;
         width: 80%;
         text-align: center;
         left: 50%;
-        top: 44%;
+        top: 40%;
+        font-size: 17px;
     }
     h3 {
-        font-size: 30px;
+        font-size: 20px;
         position: absolute;
         left: 50%;
-        top: 40%;
-        
+        top: 33%;
     }
     .wiki p {
-        height: 30%;
         width: 90%;
         height: 40%;
         left: 50%;
-        top: 65%;
+        top: 56%;
+        font-size: 17px;
     }
-    marquee{
+    marquee {
+        font-size: 12px;
         margin-top: 100px;
-        position: relative;
         bottom: 0;
         left: 0;
     }
