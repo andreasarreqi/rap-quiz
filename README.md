@@ -13,6 +13,14 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 <details>
+<summary>Favicon</summary>
+
+![Alt text](android-chrome-192x192.png)
+</details>
+
+
+
+<details>
 <summary>Alert</summary>
 
 Alert after the time has run out.
