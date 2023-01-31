@@ -187,7 +187,16 @@ HTML validator for all files.
 CSS validator for all files.
 
 
+![Alt text](assets/images/game-css.PNG)
 
+
+
+![Alt text](assets/images/highscore-css.PNG)
+
+
+
+
+![Alt text](assets/images/style-css.PNG)
 
 
 
