@@ -232,7 +232,14 @@ Lighthouse for all pages.
 </details>
 
 
-### Unfixed Bugs
+
+
+
+### Unfixed Bugs / Other
+
+
+#### JS HINT
+- Only warnings were shown but no errors were found.
 
 
 ## Deployment
