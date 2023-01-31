@@ -145,6 +145,12 @@ Register Your name/Try again or Go to the home page
 
 </details>
 
+## Technologies used
+- HTML 
+- CSS
+- JavaScript
+- Git
+- Github
 
 
 
@@ -260,7 +266,17 @@ Lighthouse for all pages.
 
 
 ## Credits 
- 
+- Great inspiration on doing the quiz.
+[Brian Design](https://www.youtube.com/watch?v=f4fB9Xg2JEY)
 
-### Media
+
+- Stack Overflow helped me with the media queries and the timer.
+
+
+
+
+
+## Acknowledgements
+- I'd Like to thank Code institue for the guidance and the lessons.
+- I'd like to thank the tutor Jason who helped me fix some issues.
 
