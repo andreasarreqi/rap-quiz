@@ -18,7 +18,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 Alert after the time has run out.
 
 
-![Alt text](assets/images/alert.png%0D) 
+![Alt text](assets/images/alert.png)
 </details>
 
 
@@ -143,6 +143,8 @@ Register Your name/Try again or Go to the home page
 
 
 ### Future Features
+- Would've liked to add a background image and some colors to the web page. Since i had some unforseen issues with teh deployed page i removed the background image which was intended to be part of the page from the start.
+
 
 ## Testing 
 
