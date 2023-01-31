@@ -3,6 +3,7 @@
 
 
 ## Introduction
+
 Welcome to my very own rap quiz. As soon as you go into the live webiste there are 2 paragraphs.
 Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before going into the quiz page.
 
@@ -12,7 +13,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/alert.png%0D) 
+![Alt text](assets/images/alert.png%0D) 
 
 
 
@@ -28,7 +29,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/red.png%0D) 
+![Alt text](assets/images/red.png%0D) 
 
 
 
@@ -36,7 +37,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/quizlist.PNG%0D)
+![Alt text](assets/images/quizlist.PNG%0D)
 
 
 
@@ -44,7 +45,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/quiz%20page.PNG%0D)
+![Alt text](assets/images/quiz%20page.PNG%0D)
 
 
 
@@ -52,7 +53,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/timer.PNG%0D) 
+![Alt text](assets/images/timer.PNG%0D) 
 
 
 
@@ -60,7 +61,7 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 
-![label](assets/images/end.png%0D) 
+![Alt text](assets/images/end.png%0D) 
 
 
 
