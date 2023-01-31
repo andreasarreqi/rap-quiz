@@ -79,9 +79,8 @@ The buttons take you to the quiz or to thte high score page.
 <summary>Timer</summary>
 
 
-![Alt text](assets/images/timer.PNG%0D) 
 
-
+![Alt text](assets/images/timer.PNG)
 </details>
 
 
