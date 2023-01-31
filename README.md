@@ -56,7 +56,7 @@ The incorrect answer turns red.
 The questions are randomized and have hover effect.
 
 
-![Alt text](assets/images/quizlist.PNG%0D)
+![Alt text](assets/images/quizlist.PNG)
 </details>
 
 
