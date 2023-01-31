@@ -42,7 +42,7 @@ The correct answer turns green.
 The incorrect answer turns red.
 
 
-![Alt text](assets/images/red.png%0D) 
+![Alt text](assets/images/red.png)
 </details>
 
 
