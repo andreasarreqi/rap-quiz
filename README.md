@@ -1,7 +1,7 @@
 # Rap Quiz
 ![Alt text](assets/images/am%20i%20responsive.png)
 
-
+- The deployed app can be found [here](https://andreasarreqi.github.io/rap-quiz/)
 ## Introduction
 
 Welcome to my very own rap quiz. As soon as you go into the live webiste there are 2 paragraphs.
@@ -262,6 +262,7 @@ Lighthouse for all pages.
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - The deployed app can be found [here](https://andreasarreqi.github.io/rap-quiz/)
 
 
 
