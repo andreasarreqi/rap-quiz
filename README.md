@@ -68,7 +68,7 @@ The questions are randomized and have hover effect.
 The buttons take you to the quiz or to thte high score page.
 
 
-![Alt text](assets/images/quiz%20page.PNG%0D)
+![Alt text](assets/images/quiz%20page.PNG)
 </details>
 
 
