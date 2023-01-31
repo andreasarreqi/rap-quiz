@@ -9,83 +9,138 @@ Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before go
 
 
 ### Features
-- Alert after the time has run out/
 
+
+
+<details>
+<summary>Alert</summary>
+
+Alert after the time has run out.
 
 
 ![Alt text](assets/images/alert.png%0D) 
+</details>
 
 
 
-- The correct answer turns gree.
 
+<details>
+<summary>Correct Answer</summary>
+The correct answer turns green.
 
 
 ![Alt text](assets/images/green.png)
+</details>
 
 
 
-- The incorrect answer turns red.
 
+
+
+<details>
+<summary>Incorrect Answer</summary>
+The incorrect answer turns red.
 
 
 ![Alt text](assets/images/red.png%0D) 
+</details>
 
 
 
-- The questions are randomized and have hover effect.
 
+
+
+
+<details>
+<summary>Question List</summary>
+The questions are randomized and have hover effect.
 
 
 ![Alt text](assets/images/quizlist.PNG%0D)
+</details>
 
 
 
-- The buttons take you to the quiz or to thte high score page.
 
+
+<details>
+<summary>Play or High Score buttons</summary>
+The buttons take you to the quiz or to thte high score page.
 
 
 ![Alt text](assets/images/quiz%20page.PNG%0D)
+</details>
 
 
 
-- Timer
 
+
+<details>
+<summary>Timer</summary>
 
 
 ![Alt text](assets/images/timer.PNG%0D) 
 
 
+</details>
 
-- Register Your name/Try again or Go to the home page
 
+
+
+
+
+<details>
+<summary>Register</summary>
+Register Your name/Try again or Go to the home page
 
 
 ![Alt text](assets/images/end.png%0D) 
 
 
+</details>
 
-- Score
 
+
+
+<details>
+<summary>Score</summary>
 
 
 ![Alt text](assets/images/score.PNG)
 
 
+</details>
 
-- Question Bar
 
+
+
+
+
+<details>
+<summary>Question Bar</summary>
 
 
 ![Alt text](assets/images/qBar.PNG)
 
 
+</details>
 
-- Leaderboard
+
+
+
+
+<details>
+<summary>Leaderboard</summary>
 
 
 
 ![Alt text](assets/images/score-name-points.png)
+
+
+</details>
+
+
+
 
 ### Future Features
 
