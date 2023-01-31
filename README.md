@@ -145,9 +145,55 @@ Register Your name/Try again or Go to the home page
 
 
 ## Testing 
+Manual testing was done on the page. Buttons work as they're supposed to.
 
 
 ### Validator Testing 
+
+<details>
+<summary>HTML</summary>
+HTML validator for all files.
+
+
+
+![Alt text](assets/images/end-html.PNG)
+
+
+
+![Alt text](assets/images/game-html.PNG)
+
+
+
+
+![Alt text](assets/images/html-V.PNG)
+
+
+
+
+![Alt text](assets/images/leaderboard-html.PNG)
+
+
+
+
+![Alt text](assets/images/quiz-html.PNG)
+
+</details>
+
+
+
+
+<details>
+<summary>CSS</summary>
+CSS validator for all files.
+
+
+
+
+
+
+</details>
+
+
 
 
 ### Unfixed Bugs
