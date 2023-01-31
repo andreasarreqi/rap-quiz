@@ -93,9 +93,8 @@ The buttons take you to the quiz or to thte high score page.
 Register Your name/Try again or Go to the home page
 
 
-![Alt text](assets/images/end.png%0D) 
 
-
+![Alt text](assets/images/end.png)
 </details>
 
 
