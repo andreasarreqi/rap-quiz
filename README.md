@@ -203,6 +203,33 @@ CSS validator for all files.
 </details>
 
 
+<details>
+<summary>Lighthouse</summary>
+Lighthouse for all pages.
+
+
+
+![Alt text](assets/images/save%20lighthouse.png)
+
+
+
+
+![Alt text](assets/images/quiz%20lighthouse.png)
+
+
+
+
+![Alt text](assets/images/play%20lighthouse.png)
+
+
+
+![Alt text](assets/images/lighthouse.png)
+
+
+
+
+![Alt text](assets/images/highscore%20lighthouse.png)
+</details>
 
 
 ### Unfixed Bugs
