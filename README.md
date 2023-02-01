@@ -7,6 +7,12 @@
 Welcome to my very own rap quiz. As soon as you go into the live webiste there are 2 paragraphs.
 Both of the paragraphs give you some quick info bout Rap/Hip-hop genre before going into the quiz page.
 
+### How To Play
+1. You click on the "Rap Quiz".
+2. You get directed to a page with a "Play" button and a "High Scores" button.
+3. You click on the "play" button for now.
+4. Here we are all sorted and ready to play the quiz.
+5.Enjoy.
 
 ### Features
 
