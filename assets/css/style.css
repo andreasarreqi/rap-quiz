@@ -336,28 +336,28 @@ marquee{
 @media screen and (max-width: 480px) {
     h1 {
         text-align: center;
-        font-size: 15px;
+        font-size: 12px;
         margin-bottom: 10px;
     }
     #nav a{
         text-align: center;
-        font-size: 12px;
+        font-size: 10px;
     }
     h2 {
         font-size: 11px;
     }
     h3 {
-        font-size: 12px;
+        font-size: 10px;
         position: absolute;
         left: 50%;
         top: 25%;
     }
     .rap p {
-        font-size: 10px;
+        font-size: 8px;
         top: 35%;
     }
     .wiki p {
-        font-size: 10px;
+        font-size: 8px;
         height: 30%;
         width: 90%;
         height: 30%;
