@@ -333,7 +333,7 @@ marquee{
 }
 
 /*Media queries for mobile phones */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 480px) {
     h1 {
         text-align: center;
         font-size: 15px;
